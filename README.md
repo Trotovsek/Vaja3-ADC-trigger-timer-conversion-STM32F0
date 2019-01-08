@@ -22,7 +22,7 @@ znaša ta vrednost? 16000 .
 
 
 
-kylev5:
+kyle V5:
 f) Branje vrednosti želimo prikazati z utripanjem zelene LED diode na STM32f0 ploščici. Uporabite metodo
 TogglePin iz HAL knjižnice in zapišite ukaz: (pomagajte si z vajo 0a).
 HAL_GPIO_TogglePin(GPIOD,GPIO_PIN9);
